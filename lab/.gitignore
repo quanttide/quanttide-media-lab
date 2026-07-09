@@ -1,3 +1,6 @@
 # 实验输入输出不提交到实验室仓库
 inputs/
 outputs/
+# Python
+__pycache__/
+*.pyc
